@@ -31,14 +31,57 @@
 
 
 ### 🌟 Specializations
-- FinTech & E-commerce Platforms
-- High-Performance Computing
-- Cloud-Native Security
-- AI/ML Infrastructure
+
+<details open>
+<summary><b>🏦 FinTech & Enterprise</b></summary>
+
+![HFT](https://img.shields.io/badge/HFT-Infrastructure-FF4A00?style=for-the-badge)
+![Payments](https://img.shields.io/badge/Payment-Systems-00457C?style=for-the-badge)
+![Security](https://img.shields.io/badge/Compliance-SOC2-00B268?style=for-the-badge)
+
+</details>
+
+<details open>
+<summary><b>🚀 High-Performance Computing</b></summary>
+
+![Distributed](https://img.shields.io/badge/Distributed-Computing-FF6B6B?style=for-the-badge)
+![Low Latency](https://img.shields.io/badge/Low_Latency-Systems-4C75A3?style=for-the-badge)
+![Parallel](https://img.shields.io/badge/Parallel-Processing-00C7B7?style=for-the-badge)
+
+</details>
+
+<details open>
+<summary><b>🛡️ Cloud-Native Security</b></summary>
+
+![Zero Trust](https://img.shields.io/badge/Zero_Trust-Architecture-231F20?style=for-the-badge)
+![Security](https://img.shields.io/badge/Security-Automation-D24939?style=for-the-badge)
+![Compliance](https://img.shields.io/badge/Automated-Compliance-7957D5?style=for-the-badge)
+
+</details>
+
+<details open>
+<summary><b>🤖 AI/ML Infrastructure</b></summary>
+
+![MLOps](https://img.shields.io/badge/MLOps-Platform-FF6F00?style=for-the-badge)
+![GPU](https://img.shields.io/badge/GPU-Clusters-76B900?style=for-the-badge)
+![Training](https://img.shields.io/badge/Training-Pipelines-792EE5?style=for-the-badge)
+
+</details>
+
+### 🔮 Emerging Tech Focus
+- Edge Computing & IoT Solutions
+- Quantum-Ready Infrastructure
+- Green Computing & Sustainability
+- Autonomous Systems Platform
+
+### 🤝 Community Leadership
+[![CNCF](https://img.shields.io/badge/CNCF-Member-231F20?style=for-the-badge&logo=cncf&logoColor=white)](https://www.cncf.io/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-Contributor-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Speaker](https://img.shields.io/badge/Conference-Speaker-FE5196?style=for-the-badge&logo=microsoft-academic&logoColor=white)](https://www.linkedin.com/in/wiston/)
 
 ### 🤝 Community Engagement
-- Open Source Contributor to Kubernetes Ecosystem & Cloud-Native Technologies
-- DevOps Community Mentor & Meetup Speaker on Platform Engineering
+- Open Source Contributor to Kubernetes & Cloud-Native Ecosystem
+- DevOps Community Mentor & Meetup Speaker on DevOps | Platform Engineering
 - Cloud Native Computing Foundation (CNCF) Member
 
 
