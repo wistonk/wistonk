@@ -19,7 +19,7 @@
 - 99.99% uptime across 1000+ microservices
 - Reduced cloud costs by $2M+ annually
 - Decreased MTTR by 65% through automation
-- Enabled 100+ engineers with self-service platform
+- Enabled 1000+ engineers with self-service platform
 
 
 ### 🎓 Certifications & Expertise
@@ -33,39 +33,54 @@
 ### 🌟 Specializations
 
 <details open>
-<summary><b>🏦 FinTech & Enterprise</b></summary>
+<summary><b>FinTech & Enterprise</b></summary>
 
 ![HFT](https://img.shields.io/badge/HFT-Infrastructure-FF4A00?style=for-the-badge)
 ![Payments](https://img.shields.io/badge/Payment-Systems-00457C?style=for-the-badge)
 ![Security](https://img.shields.io/badge/Compliance-SOC2-00B268?style=for-the-badge)
-
+* High-frequency trading infrastructure
+* Secure payment system architectures
+* Scalable transaction processing
+* Fraud detection system design
 </details>
 
 <details open>
-<summary><b>🚀 High-Performance Computing</b></summary>
+<summary><b>High-Performance Computing</b></summary>
 
 ![Distributed](https://img.shields.io/badge/Distributed-Computing-FF6B6B?style=for-the-badge)
 ![Low Latency](https://img.shields.io/badge/Low_Latency-Systems-4C75A3?style=for-the-badge)
 ![Parallel](https://img.shields.io/badge/Parallel-Processing-00C7B7?style=for-the-badge)
-
+* Distributed computing architectures
+* Performance optimization techniques
+* Parallel processing infrastructure
+* Low-latency system design
+* Advanced computational resource management
 </details>
 
 <details open>
-<summary><b>🛡️ Cloud-Native Security</b></summary>
+<summary><b>Cloud-Native Security</b></summary>
 
 ![Zero Trust](https://img.shields.io/badge/Zero_Trust-Architecture-231F20?style=for-the-badge)
 ![Security](https://img.shields.io/badge/Security-Automation-D24939?style=for-the-badge)
 ![Compliance](https://img.shields.io/badge/Automated-Compliance-7957D5?style=for-the-badge)
-
+* Zero-trust security models
+* Automated security compliance
+* Continuous threat monitoring
+* Microservices security architecture
+* Advanced encryption infrastructure
 </details>
 
 <details open>
-<summary><b>🤖 AI/ML Infrastructure</b></summary>
+<summary><b>AI/ML Infrastructure</b></summary>
 
 ![MLOps](https://img.shields.io/badge/MLOps-Platform-FF6F00?style=for-the-badge)
 ![GPU](https://img.shields.io/badge/GPU-Clusters-76B900?style=for-the-badge)
 ![Training](https://img.shields.io/badge/Training-Pipelines-792EE5?style=for-the-badge)
-
+* Machine learning workflow optimization
+* GPU/TPU cluster management
+* Model training pipeline design
+* Scalable AI compute resources
+* ML ops (MLOps) platform engineering
 </details>
 
 ### 🔮 Emerging Tech Focus
@@ -77,7 +92,7 @@
 ### 🤝 Community Leadership
 [![CNCF](https://img.shields.io/badge/CNCF-Member-231F20?style=for-the-badge&logo=cncf&logoColor=white)](https://www.cncf.io/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-Contributor-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Speaker](https://img.shields.io/badge/Conference-Speaker-FE5196?style=for-the-badge&logo=microsoft-academic&logoColor=white)](https://www.linkedin.com/in/wiston/)
+[![Speaker](https://img.shields.io/badge/Meetup-Speaker-FE5196?style=for-the-badge&logo=microsoft-academic&logoColor=white)](https://www.linkedin.com/in/wiston/)
 
 ### 🤝 Community Engagement
 - Open Source Contributor to Kubernetes & Cloud-Native Ecosystem
