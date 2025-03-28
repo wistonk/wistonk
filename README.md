@@ -1,16 +1,14 @@
 # 👋 Hi there, I'm Wiston
 
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/users/wiston)
-[![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.credly.com/users/wiston)
-[![Kubernetes](https://img.shields.io/badge/kubernetes-326ce6.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/users/wiston)
-[![Linux Foundation](https://img.shields.io/badge/Linux%20Foundation-Certified-003366?style=for-the-badge&logo=linux-foundation&logoColor=white)](https://www.credly.com/users/wiston)
-
 ## Principal Platform Engineer & SRE
 
-> 15+ years building scalable cloud infrastructure | 8+ years SRE & DevOps | Cloud-Native Expert
+> 15+ years in software engineering | 8+ years building scalable cloud infrastructure as a Cloud-Native Expert
+> [![Linux Foundation](https://img.shields.io/badge/Linux%20Foundation-Certified-003366?style=for-the-badge&logo=linux-foundation&logoColor=white)](https://www.credly.com/users/wiston)
 
 ### 🎯 Core Focus Areas
-
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/users/wiston)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-326ce6.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/users/wiston)
+[![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.credly.com/users/wiston)
 - **Platform Engineering**: Developer platforms, self-service infrastructure, workflow automation
 - **Site Reliability**: SLO/SLI management, resilient systems, observability solutions
 - **Cloud Architecture**: Multi-cloud design, microservices, HA systems, cost optimization
@@ -29,7 +27,7 @@
 ![HashiCorp](https://img.shields.io/badge/HashiCorp-Vault%20%7C%20Terraform-000000?style=flat-square&logo=hashicorp)
 ![Docker](https://img.shields.io/badge/Docker-DCA-2496ED?style=flat-square&logo=docker)
 
-### 💻 Tech Stack
+### 💻 Tooling
 
 <details>
 <summary>Cloud & Infrastructure</summary>
@@ -68,7 +66,6 @@
 - AI/ML Infrastructure
 
 ### 🤝 Community Engagement
-- Conference Speaker
 - Technical Writer
 - Open Source Contributor
 
@@ -77,5 +74,5 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wistonk)
 
 ---
-⭐️ From [wistonk](https://github.com/wistonk)
+
 
