@@ -16,11 +16,30 @@
 - **DevOps Culture**: GitOps, automation, technical enablement
 
 ### 🏆 Key Achievements
-- 99.99% uptime across 1000+ microservices
-- Reduced cloud costs by $2M+ annually
-- Decreased MTTR by 65% through automation
-- Enabled 1000+ engineers with self-service platform
 
+- **Platform Reliability**
+  - 99.99% uptime across mission-critical platforms
+  - Reduced MTTR by 75% through automated remediation
+  - Decreased response time from 500ms to <100ms
+  - Built fault-tolerant architecture supporting global operations
+
+- **Cost & Efficiency**
+  - Achieved $2M+ annual cloud cost savings
+  - Reduced infrastructure footprint by 35%
+  - Improved resource utilization by 50%
+  - Automated 90% of routine operational tasks
+
+- **Performance Optimization**
+  - Reduced database query latency by 70%
+  - Implemented predictive auto-scaling
+  - Enhanced CI/CD pipeline efficiency
+  - Decreased deployment lead times by 60%
+
+- **Engineering Enablement**
+  - Enabled 1000+ engineers with self-service platform
+  - Established DevOps practices across teams
+  - Reduced onboarding time from weeks to days
+  - Improved developer productivity by 40%
 
 ### 🎓 Certifications & Expertise
 ![AWS](https://img.shields.io/badge/AWS-8x_Certified-FF9900?style=flat-square&logo=amazon-aws)
