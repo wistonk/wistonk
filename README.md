@@ -16,7 +16,7 @@
 <summary><b>Platform Engineering</b></summary>
 
 ![Platform](https://img.shields.io/badge/Platform-Engineering-FF4A00?style=for-the-badge)
-* Enterprise Platform Design (1000+ Services, 500+ Development Teams)
+* Infrastructure Abstraction Patterns & Resource Provisioning
 * Zero-Touch Self-service Infrastructure (99.9% Automation)
 * Multi-region Resource Orchestration & Global Service Discovery
 * Scalable Platform Metrics (50M+ Daily Requests, <100ms Latency)
@@ -36,10 +36,11 @@
 <summary><b>DevOps & Cloud Architecture</b></summary>
 
 ![DevOps](https://img.shields.io/badge/DevOps-Practices-00B268?style=for-the-badge)
+* Cloud-Native Design Patterns & Best Practices
 * Multi-region Infrastructure (99.999% Uptime SLA)
-* Enterprise CI/CD (10K+ Daily Deployments)
+* Continuous Deployment with Progressive Delivery
 * Infrastructure as Code at Scale (100K+ Resources)
-* FinOps Optimization ($10M+ Annual Cloud Spend)
+* FinOps Optimization (Resource & Cost Attribution Models)
 </details>
 
 <details open>
@@ -49,7 +50,8 @@
 * Global Event-Driven Systems (1M+ Events/Second)
 * Distributed Data Architecture (PB-scale, <10ms Latency)
 * Zero-downtime Evolution Patterns
-* Chaos Engineering at Enterprise Scale
+* Scalable Architecture & Caching Strategies
+* Resilient System Design with Fault Isolation
 </details>
 
 
