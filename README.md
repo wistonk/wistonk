@@ -16,40 +16,40 @@
 <summary><b>Platform Engineering</b></summary>
 
 ![Platform](https://img.shields.io/badge/Platform-Engineering-FF4A00?style=for-the-badge)
-* Self-service Platform Design with Golden Paths Architecture
-* API-First Design with Standardized Service Templates
-* Infrastructure Abstraction Patterns & Resource Provisioning
-* Platform Scalability with Multi-tenancy Support (N+1)
+* Enterprise Platform Design (1000+ Services, 500+ Development Teams)
+* Zero-Touch Self-service Infrastructure (99.9% Automation)
+* Multi-region Resource Orchestration & Global Service Discovery
+* Scalable Platform Metrics (50M+ Daily Requests, <100ms Latency)
 </details>
 
 <details open>
 <summary><b>Site Reliability Engineering</b></summary>
 
 ![SRE](https://img.shields.io/badge/Site_Reliability-Engineering-00457C?style=for-the-badge)
-* Error Budgets & SLO-based Architecture (99.99% Availability)
-* Distributed Systems Failure Mode Analysis
-* Automated Recovery Patterns & Circuit Breakers
-* Predictive Performance Modeling & Capacity Planning
+* High-Scale SLO Management (99.99% Global Availability)
+* Large-scale Incident Management (MTTR <10 minutes)
+* Distributed Tracing at Scale (1B+ Daily Transactions)
+* Global Load Distribution & Auto-remediation Patterns
 </details>
 
 <details open>
 <summary><b>DevOps & Cloud Architecture</b></summary>
 
 ![DevOps](https://img.shields.io/badge/DevOps-Practices-00B268?style=for-the-badge)
-* Cloud-Native Design Patterns & Best Practices
-* Infrastructure State Management & Immutability
-* Continuous Deployment with Progressive Delivery
-* Resource Optimization & Cost Attribution Models
+* Multi-region Infrastructure (99.999% Uptime SLA)
+* Enterprise CI/CD (10K+ Daily Deployments)
+* Infrastructure as Code at Scale (100K+ Resources)
+* FinOps Optimization ($10M+ Annual Cloud Spend)
 </details>
 
 <details open>
 <summary><b>Technical Architecture</b></summary>
 
 ![Architecture](https://img.shields.io/badge/Technical-Architecture-4C75A3?style=for-the-badge)
-* Event-Driven Architecture & CQRS Patterns
-* Distributed System Consensus & CAP Theorem
-* Scalable Data Architecture & Caching Strategies
-* Resilient System Design with Fault Isolation
+* Global Event-Driven Systems (1M+ Events/Second)
+* Distributed Data Architecture (PB-scale, <10ms Latency)
+* Zero-downtime Evolution Patterns
+* Chaos Engineering at Enterprise Scale
 </details>
 
 
