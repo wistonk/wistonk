@@ -16,40 +16,40 @@
 <summary><b>Platform Engineering</b></summary>
 
 ![Platform](https://img.shields.io/badge/Platform-Engineering-FF4A00?style=for-the-badge)
-* Developer Experience (DevEx) Optimization
-* Internal Developer Platforms (IDP)
-* Self-service Infrastructure Automation
-* Service Mesh & API Gateway Architecture
+* Self-service Platform Design with Golden Paths Architecture
+* API-First Design with Standardized Service Templates
+* Infrastructure Abstraction Patterns & Resource Provisioning
+* Platform Scalability with Multi-tenancy Support (N+1)
 </details>
 
 <details open>
 <summary><b>Site Reliability Engineering</b></summary>
 
 ![SRE](https://img.shields.io/badge/Site_Reliability-Engineering-00457C?style=for-the-badge)
-* Service Level Objectives (SLO) Design
-* Incident Management & Response
-* Performance Optimization & Scaling
-* Observability & Monitoring Systems
+* Error Budgets & SLO-based Architecture (99.99% Availability)
+* Distributed Systems Failure Mode Analysis
+* Automated Recovery Patterns & Circuit Breakers
+* Predictive Performance Modeling & Capacity Planning
 </details>
 
 <details open>
 <summary><b>DevOps & Cloud Architecture</b></summary>
 
 ![DevOps](https://img.shields.io/badge/DevOps-Practices-00B268?style=for-the-badge)
-* Multi-cloud Infrastructure Design
-* CI/CD Pipeline Optimization
-* Infrastructure as Code (IaC)
-* Cloud Cost Optimization (FinOps)
+* Cloud-Native Design Patterns & Best Practices
+* Infrastructure State Management & Immutability
+* Continuous Deployment with Progressive Delivery
+* Resource Optimization & Cost Attribution Models
 </details>
 
 <details open>
-<summary><b>Technical Leadership</b></summary>
+<summary><b>Technical Architecture</b></summary>
 
-![Leadership](https://img.shields.io/badge/Technical-Leadership-4C75A3?style=for-the-badge)
-* Engineering Team Enablement
-* Architecture Decision Making
-* Best Practices & Standards
-* Technical Strategy Planning
+![Architecture](https://img.shields.io/badge/Technical-Architecture-4C75A3?style=for-the-badge)
+* Event-Driven Architecture & CQRS Patterns
+* Distributed System Consensus & CAP Theorem
+* Scalable Data Architecture & Caching Strategies
+* Resilient System Design with Fault Isolation
 </details>
 
 
