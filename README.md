@@ -1,128 +1,60 @@
-# 👋 Hi there, I'm Wiston
+# 👋 Hi there,
 
-## Senior Platform | Site Reliability Engineer
-
-> 14+ years in software engineering | 7+ years building scalable cloud infrastructure as a Cloud-Native Expert
-> [![Linux Foundation](https://img.shields.io/badge/Linux%20Foundation-Certified-003366?style=for-the-badge&logo=linux-foundation&logoColor=white)](https://www.credly.com/users/wiston)
-
-
-### 🎯 Core Focus
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/users/wiston)
-[![Kubernetes](https://img.shields.io/badge/kubernetes-326ce6.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/users/wiston)
-[![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.credly.com/users/wiston)
-- **Platform Engineering**: Developer platforms, IaC, service mesh, container orchestration
-- **Site Reliability**: SLO/SLI management, observability, incident automation
-- **Cloud Architecture**: Multi-cloud solutions, HA systems, FinOps
-- **DevOps Culture**: GitOps, automation, technical enablement
-
-### 🏆 Key Achievements
-
-- **Platform Reliability**
-  - 99.99% uptime across mission-critical platforms
-  - Reduced MTTR by 75% through automated remediation
-  - Decreased response time from 500ms to <100ms
-  - Built fault-tolerant architecture supporting global operations
-
-- **Cost & Efficiency**
-  - Achieved $2M+ annual cloud cost savings
-  - Reduced infrastructure footprint by 35%
-  - Improved resource utilization by 50%
-  - Automated 90% of routine operational tasks
-
-- **Performance Optimization**
-  - Reduced database query latency by 70%
-  - Implemented predictive auto-scaling
-  - Enhanced CI/CD pipeline efficiency
-  - Decreased deployment lead times by 60%
-
-- **Engineering Enablement**
-  - Enabled 1000+ engineers with self-service platform
-  - Established DevOps practices across teams
-  - Reduced onboarding time from weeks to days
-  - Improved developer productivity by 40%
-
-### 🎓 Certifications & Expertise
+## I'm Wiston
 ![AWS](https://img.shields.io/badge/AWS-8x_Certified-FF9900?style=flat-square&logo=amazon-aws)
 ![GCP](https://img.shields.io/badge/GCP-5x_Certified-4285F4?style=flat-square&logo=google-cloud)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-CKA%20%7C%20CKAD-326ce6?style=flat-square&logo=kubernetes)
 ![HashiCorp](https://img.shields.io/badge/HashiCorp-Vault%20%7C%20Terraform-000000?style=flat-square&logo=hashicorp)
 ![Docker](https://img.shields.io/badge/Docker-DCA-2496ED?style=flat-square&logo=docker)
+> I am passionate about building resilient, high-performance systems and driving continuous engineering excellence to ensure reliability, scalability, and efficiency in every project.
 
 
-### 🌟 Specializations
+
+### 🎯 Areas of Interest
 
 <details open>
-<summary><b>FinTech & Enterprise</b></summary>
+<summary><b>Platform Engineering</b></summary>
 
-![HFT](https://img.shields.io/badge/HFT-Infrastructure-FF4A00?style=for-the-badge)
-![Payments](https://img.shields.io/badge/Payment-Systems-00457C?style=for-the-badge)
-![Security](https://img.shields.io/badge/Compliance-SOC2-00B268?style=for-the-badge)
-* High-frequency trading infrastructure
-* Secure payment system architectures
-* Scalable transaction processing
-* Fraud detection system design
+![Platform](https://img.shields.io/badge/Platform-Engineering-FF4A00?style=for-the-badge)
+* Developer Experience (DevEx) Optimization
+* Internal Developer Platforms (IDP)
+* Self-service Infrastructure Automation
+* Service Mesh & API Gateway Architecture
 </details>
 
 <details open>
-<summary><b>High-Performance Computing</b></summary>
+<summary><b>Site Reliability Engineering</b></summary>
 
-![Distributed](https://img.shields.io/badge/Distributed-Computing-FF6B6B?style=for-the-badge)
-![Low Latency](https://img.shields.io/badge/Low_Latency-Systems-4C75A3?style=for-the-badge)
-![Parallel](https://img.shields.io/badge/Parallel-Processing-00C7B7?style=for-the-badge)
-* Distributed computing architectures
-* Performance optimization techniques
-* Parallel processing infrastructure
-* Low-latency system design
-* Advanced computational resource management
+![SRE](https://img.shields.io/badge/Site_Reliability-Engineering-00457C?style=for-the-badge)
+* Service Level Objectives (SLO) Design
+* Incident Management & Response
+* Performance Optimization & Scaling
+* Observability & Monitoring Systems
 </details>
 
 <details open>
-<summary><b>Cloud-Native Security</b></summary>
+<summary><b>DevOps & Cloud Architecture</b></summary>
 
-![Zero Trust](https://img.shields.io/badge/Zero_Trust-Architecture-231F20?style=for-the-badge)
-![Security](https://img.shields.io/badge/Security-Automation-D24939?style=for-the-badge)
-![Compliance](https://img.shields.io/badge/Automated-Compliance-7957D5?style=for-the-badge)
-* Zero-trust security models
-* Automated security compliance
-* Continuous threat monitoring
-* Microservices security architecture
-* Advanced encryption infrastructure
+![DevOps](https://img.shields.io/badge/DevOps-Practices-00B268?style=for-the-badge)
+* Multi-cloud Infrastructure Design
+* CI/CD Pipeline Optimization
+* Infrastructure as Code (IaC)
+* Cloud Cost Optimization (FinOps)
 </details>
 
 <details open>
-<summary><b>AI/ML Infrastructure</b></summary>
+<summary><b>Technical Leadership</b></summary>
 
-![MLOps](https://img.shields.io/badge/MLOps-Platform-FF6F00?style=for-the-badge)
-![GPU](https://img.shields.io/badge/GPU-Clusters-76B900?style=for-the-badge)
-![Training](https://img.shields.io/badge/Training-Pipelines-792EE5?style=for-the-badge)
-* Machine learning workflow optimization
-* GPU/TPU cluster management
-* Model training pipeline design
-* Scalable AI compute resources
-* ML ops (MLOps) platform engineering
+![Leadership](https://img.shields.io/badge/Technical-Leadership-4C75A3?style=for-the-badge)
+* Engineering Team Enablement
+* Architecture Decision Making
+* Best Practices & Standards
+* Technical Strategy Planning
 </details>
-
-### 🔮 Emerging Tech Focus
-- Edge Computing & IoT Solutions
-- Quantum-Ready Infrastructure
-- Green Computing & Sustainability
-- Autonomous Systems Platform
-
-### 🤝 Community Leadership
-[![CNCF](https://img.shields.io/badge/CNCF-Member-231F20?style=for-the-badge&logo=cncf&logoColor=white)](https://www.cncf.io/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-Contributor-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Speaker](https://img.shields.io/badge/Meetup-Speaker-FE5196?style=for-the-badge&logo=microsoft-academic&logoColor=white)](https://www.linkedin.com/in/wiston/)
-
-### 🤝 Community Engagement
-- Open Source Contributor to Kubernetes & Cloud-Native Ecosystem
-- DevOps Community Mentor & Meetup Speaker on DevOps | Platform Engineering
-- Cloud Native Computing Foundation (CNCF) Member
 
 
 ### 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wiston/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wistonk)
-
----
 
 
